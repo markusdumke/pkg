@@ -8,6 +8,7 @@
 #'
 #' @return
 #' @export
+#' @import magrittr
 #'
 #' @examples
 #' # import_pkg("lubridate")
